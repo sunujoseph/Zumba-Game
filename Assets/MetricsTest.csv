@@ -1,4 +1,5 @@
 Scene Name,Correct Answers,Error Count,Average Time
-HighWayCountry,5,2,2.798558
-Camping,5,0,1.194327
-Harbour Find Me,5,0,1.260023
+Camping,5,0,6.138399
+Camping,5,4,2.789915
+Camping,5,1,1.125404
+Camping,5,3,3.205304
