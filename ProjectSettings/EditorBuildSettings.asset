@@ -56,4 +56,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Zumba/SnowMountains2.unity
     guid: 5cd5085e4c252a54280834c0c5b31a72
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: ce05ee5deafcb2b40b2920c93e01e094, type: 2}
+    com.unity.renderstreaming.settings: {fileID: 11400000, guid: eaaad242393318e4f85c45e69c8837f0, type: 2}
